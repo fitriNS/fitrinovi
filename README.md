@@ -1,4 +1,4 @@
-# Sistem Pakar Diagnosa Tingkat Depresi Mahasiswa Tingkat Akhir
+# Sistem Pakar Diagnosa Tingkat Depresi Mahasiswa 
 
 <h2>DIAGNOSA TINGKAT DEPRESI MAHASISWA TINGKAT AKHIR DENGAN METODE FORWARD CHAINING BERBAIS WEB</h2>
 
